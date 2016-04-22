@@ -1,0 +1,4 @@
+to_be_excluded
+*temp*
+**/*.txt
+!initdir.sh
